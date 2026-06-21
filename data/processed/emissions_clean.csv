@@ -1,0 +1,214 @@
+country_code_3,country_name,Emissions_Baseline_Year,CO2_Per_Capita_Tonnes
+ABW,Aruba,2024,8.52
+AFG,Afghanistan,2024,0.25
+AGO,Angola,2024,0.59
+AIA,Anguilla,2024,10.13
+ALB,Albania,2024,1.59
+AND,Andorra,2024,5.18
+ARE,United Arab Emirates,2024,20.13
+ARG,Argentina,2024,3.74
+ARM,Armenia,2024,2.5
+ATG,Antigua and Barbuda,2024,7.09
+AUS,Australia,2024,14.48
+AUT,Austria,2024,6.18
+AZE,Azerbaijan,2024,3.85
+BDI,Burundi,2024,0.07
+BEL,Belgium,2024,7.28
+BEN,Benin,2024,0.42
+BES,Bonaire Sint Eustatius and Saba,2024,4.95
+BFA,Burkina Faso,2024,0.28
+BGD,Bangladesh,2024,0.62
+BGR,Bulgaria,2024,4.68
+BHR,Bahrain,2024,24.27
+BHS,Bahamas,2024,7.65
+BIH,Bosnia and Herzegovina,2024,6.14
+BLR,Belarus,2024,6.16
+BLZ,Belize,2024,1.91
+BMU,Bermuda,2024,8.51
+BOL,Bolivia,2024,2.31
+BRA,Brazil,2024,2.28
+BRB,Barbados,2024,4.83
+BRN,Brunei,2024,26.05
+BTN,Bhutan,2024,2.09
+BWA,Botswana,2024,2.96
+CAF,Central African Republic,2024,0.07
+CAN,Canada,2024,13.42
+CHE,Switzerland,2024,3.59
+CHL,Chile,2024,3.98
+CHN,China,2024,8.66
+CIV,Cote d'Ivoire,2024,0.46
+CMR,Cameroon,2024,0.33
+COD,Democratic Republic of Congo,2024,0.05
+COG,Congo,2024,1.4
+COK,Cook Islands,2024,5.82
+COL,Colombia,2024,1.75
+COM,Comoros,2024,0.64
+CPV,Cape Verde,2024,1.13
+CRI,Costa Rica,2024,1.71
+CUB,Cuba,2024,2.23
+CUW,Curacao,2024,12.34
+CYP,Cyprus,2024,5.37
+CZE,Czechia,2024,7.04
+DEU,Germany,2024,6.77
+DJI,Djibouti,2024,0.48
+DMA,Dominica,2024,2.58
+DNK,Denmark,2024,4.75
+DOM,Dominican Republic,2024,2.9
+DZA,Algeria,2024,4.23
+ECU,Ecuador,2024,2.54
+EGY,Egypt,2024,2.22
+ERI,Eritrea,2024,0.21
+ESP,Spain,2024,4.6
+EST,Estonia,2024,6.11
+ETH,Ethiopia,2024,0.14
+FIN,Finland,2024,5.3
+FJI,Fiji,2024,1.56
+FRA,France,2024,3.97
+FRO,Faroe Islands,2024,13.09
+FSM,Micronesia (country),2024,1.33
+GAB,Gabon,2024,2.13
+GBR,United Kingdom,2024,4.53
+GEO,Georgia,2024,3.09
+GHA,Ghana,2024,0.61
+GIN,Guinea,2024,0.27
+GMB,Gambia,2024,0.29
+GNB,Guinea-Bissau,2024,0.16
+GNQ,Equatorial Guinea,2024,3.7
+GRC,Greece,2024,5.31
+GRD,Grenada,2024,3.22
+GRL,Greenland,2024,11.08
+GTM,Guatemala,2024,1.08
+GUY,Guyana,2024,5.43
+HKG,Hong Kong,2024,4.49
+HND,Honduras,2024,1.19
+HRV,Croatia,2024,4.76
+HTI,Haiti,2024,0.25
+HUN,Hungary,2024,4.14
+IDN,Indonesia,2024,2.87
+IND,India,2024,2.2
+IRL,Ireland,2024,6.34
+IRN,Iran,2024,8.66
+IRQ,Iraq,2024,5.07
+ISL,Iceland,2024,9.67
+ISR,Israel,2024,5.61
+ITA,Italy,2024,5.09
+JAM,Jamaica,2024,2.96
+JOR,Jordan,2024,2.01
+JPN,Japan,2024,7.77
+KAZ,Kazakhstan,2024,13.94
+KEN,Kenya,2024,0.38
+KGZ,Kyrgyzstan,2024,1.64
+KHM,Cambodia,2024,1.24
+KIR,Kiribati,2024,0.54
+KNA,Saint Kitts and Nevis,2024,5.54
+KOR,South Korea,2024,11.29
+KWT,Kuwait,2024,26.25
+LAO,Laos,2024,3.14
+LBN,Lebanon,2024,2.7
+LBR,Liberia,2024,0.15
+LBY,Libya,2024,8.84
+LCA,Saint Lucia,2024,2.99
+LIE,Liechtenstein,2024,3.3
+LKA,Sri Lanka,2024,0.9
+LSO,Lesotho,2024,1.1
+LTU,Lithuania,2024,4.39
+LUX,Luxembourg,2024,10.46
+LVA,Latvia,2024,3.45
+MAC,Macao,2024,1.47
+MAR,Morocco,2024,1.81
+MDA,Moldova,2024,1.76
+MDG,Madagascar,2024,0.14
+MDV,Maldives,2024,4.37
+MEX,Mexico,2024,3.52
+MHL,Marshall Islands,2024,4.11
+MKD,North Macedonia,2024,3.63
+MLI,Mali,2024,0.29
+MLT,Malta,2024,3.2
+MMR,Myanmar,2024,0.58
+MNE,Montenegro,2024,3.72
+MNG,Mongolia,2024,12.86
+MOZ,Mozambique,2024,0.25
+MRT,Mauritania,2024,1.01
+MSR,Montserrat,2024,6.02
+MUS,Mauritius,2024,3.68
+MWI,Malawi,2024,0.09
+MYS,Malaysia,2024,8.16
+NAM,Namibia,2024,1.14
+NCL,New Caledonia,2024,18.06
+NER,Niger,2024,0.12
+NGA,Nigeria,2024,0.58
+NIC,Nicaragua,2024,0.81
+NIU,Niue,2024,4.14
+NLD,Netherlands,2024,6.3
+NOR,Norway,2024,6.67
+NPL,Nepal,2024,0.63
+NRU,Nauru,2024,5.13
+NZL,New Zealand,2024,6.23
+OMN,Oman,2024,15.65
+PAK,Pakistan,2024,0.72
+PAN,Panama,2024,2.8
+PER,Peru,2024,2.05
+PHL,Philippines,2024,1.51
+PLW,Palau,2024,12.76
+PNG,Papua New Guinea,2024,0.79
+POL,Poland,2024,7.08
+PRK,North Korea,2024,2.36
+PRT,Portugal,2024,3.41
+PRY,Paraguay,2024,1.15
+PSE,Palestine,2024,0.87
+PYF,French Polynesia,2024,3.27
+QAT,Qatar,2024,41.27
+ROU,Romania,2024,3.61
+RUS,Russia,2024,12.29
+RWA,Rwanda,2024,0.14
+SAU,Saudi Arabia,2024,20.38
+SDN,Sudan,2024,0.35
+SEN,Senegal,2024,0.76
+SGP,Singapore,2024,9.24
+SHN,Saint Helena,2024,2.16
+SLB,Solomon Islands,2024,0.36
+SLE,Sierra Leone,2024,0.17
+SLV,El Salvador,2024,1.42
+SOM,Somalia,2024,0.07
+SPM,Saint Pierre and Miquelon,2024,9.79
+SRB,Serbia,2024,6.24
+SSD,South Sudan,2024,0.14
+STP,Sao Tome and Principe,2024,0.6
+SUR,Suriname,2024,4.71
+SVK,Slovakia,2024,5.28
+SVN,Slovenia,2024,6.02
+SWE,Sweden,2024,3.59
+SWZ,Eswatini,2024,0.84
+SXM,Sint Maarten (Dutch part),2024,16.55
+SYC,Seychelles,2024,5.0
+SYR,Syria,2024,1.29
+TCA,Turks and Caicos Islands,2024,8.14
+TCD,Chad,2024,0.14
+TGO,Togo,2024,0.33
+THA,Thailand,2024,3.74
+TJK,Tajikistan,2024,1.01
+TKM,Turkmenistan,2024,10.81
+TLS,East Timor,2024,0.48
+TON,Tonga,2024,1.46
+TTO,Trinidad and Tobago,2024,22.93
+TUN,Tunisia,2024,2.66
+TUR,Turkey,2024,5.87
+TUV,Tuvalu,2024,1.18
+TWN,Taiwan,2024,11.3
+TZA,Tanzania,2024,0.29
+UGA,Uganda,2024,0.13
+UKR,Ukraine,2024,3.76
+URY,Uruguay,2024,2.35
+USA,United States,2024,14.2
+UZB,Uzbekistan,2024,3.83
+VCT,Saint Vincent and the Grenadines,2024,2.54
+VEN,Venezuela,2024,4.09
+VGB,British Virgin Islands,2024,4.87
+VNM,Vietnam,2024,3.67
+VUT,Vanuatu,2024,0.6
+WLF,Wallis and Futuna,2024,2.7
+WSM,Samoa,2024,1.13
+YEM,Yemen,2024,0.25
+ZAF,South Africa,2024,6.87
+ZMB,Zambia,2024,0.57
+ZWE,Zimbabwe,2024,0.82
